@@ -1,0 +1,1 @@
+C++ is a very farigh language jo k kahen nahi use hoti
